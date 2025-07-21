@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\alski\mtfsupport/pCube5sG"
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

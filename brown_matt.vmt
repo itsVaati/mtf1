@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\alski\mtfsupport/brown_matt"
+	 "$bumpmap" 			"models\alski\mtfsupport/brown_matt_N"
+
+}

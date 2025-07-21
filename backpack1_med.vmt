@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\alski\mtfsupport/backpack1_med"
+ "$bumpmap" 			"models\alski\mtfsupport_Shared/backpack1N"
+
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}
